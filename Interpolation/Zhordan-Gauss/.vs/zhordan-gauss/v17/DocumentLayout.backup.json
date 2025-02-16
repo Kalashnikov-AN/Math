@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\Interpolation\\Zhordan-Gauss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C164AEBA-1ACD-42AF-A05D-001444377F28}|zhordan-gauss.vcxproj|C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\Interpolation\\Zhordan-Gauss\\zhordan-gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C164AEBA-1ACD-42AF-A05D-001444377F28}|zhordan-gauss.vcxproj|solutionrelative:zhordan-gauss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zhordan-gauss.cpp",
+              "DocumentMoniker": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\Interpolation\\Zhordan-Gauss\\zhordan-gauss.cpp",
+              "RelativeDocumentMoniker": "zhordan-gauss.cpp",
+              "ToolTip": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\Interpolation\\Zhordan-Gauss\\zhordan-gauss.cpp*",
+              "RelativeToolTip": "zhordan-gauss.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T13:02:46.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

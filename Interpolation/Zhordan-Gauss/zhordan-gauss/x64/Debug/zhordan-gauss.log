@@ -1,0 +1,4 @@
+﻿  zhordan-gauss.cpp
+C:\Users\huuma\Documents\Вычмат\Interpolation\Zhordan-Gauss\zhordan-gauss.cpp(31,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\huuma\Documents\Вычмат\Interpolation\Zhordan-Gauss\zhordan-gauss.cpp(33,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  zhordan-gauss.vcxproj -> C:\Users\huuma\Documents\Вычмат\Interpolation\Zhordan-Gauss\x64\Debug\zhordan-gauss.exe

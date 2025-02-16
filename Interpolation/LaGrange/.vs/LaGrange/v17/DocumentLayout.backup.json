@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\iterpolation\\LaGrange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D81CBB-064D-4E4F-B1BF-087BCE4C2FE1}|LaGrange.vcxproj|C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\iterpolation\\LaGrange\\LaGrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D81CBB-064D-4E4F-B1BF-087BCE4C2FE1}|LaGrange.vcxproj|solutionrelative:LaGrange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaGrange.cpp",
+              "DocumentMoniker": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\iterpolation\\LaGrange\\LaGrange.cpp",
+              "RelativeDocumentMoniker": "LaGrange.cpp",
+              "ToolTip": "C:\\Users\\huuma\\Documents\\\u0412\u044B\u0447\u043C\u0430\u0442\\iterpolation\\LaGrange\\LaGrange.cpp*",
+              "RelativeToolTip": "LaGrange.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T14:25:16.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
